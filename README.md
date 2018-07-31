@@ -10,6 +10,7 @@
 ### [Story Generation from Sequence of Independent Short Descriptions](https://arxiv.org/pdf/1707.05501)
 
 ## Reading Comprehension
+### [A Survey of Question Answering for Math and Science Problem](https://arxiv.org/abs/1705.04530)
 
 ## Question Generation
-###[automatic question generation using relative pronouns and adverbs](aclweb.org/anthology/P18-3022)
+### [automatic question generation using relative pronouns and adverbs](http://aclweb.org/anthology/P18-3022)
