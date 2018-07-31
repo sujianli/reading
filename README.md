@@ -2,6 +2,11 @@
 
 ## Citation Related
 ### * [Measuring the Evolution of a Scientific Field through Citation Frames](https://www.transacl.org/ojs/index.php/tacl/article/view/1266)
+
+1) a large scale of corpus of citation  functions. 134,127 citations over 20,000 papers from nearly 40 years of work.
+2) differences in a paper's citation framing have a significant impact on future scientific uptake.
+Six classes:Background, Motivation, Uses, Extension, Comparison/Contrast, Future 
+
 ### * [GRAPH ATTENTION NETWORKS](https://openreview.net/pdf?id=rJXMpikCZ)
 ### * [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
 
