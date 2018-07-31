@@ -3,7 +3,7 @@
 ## Citation Related
 ### [Measuring the Evolution of a Scientific Field through Citation Frames](https://www.transacl.org/ojs/index.php/tacl/article/view/1266)
 ### [GRAPH ATTENTION NETWORKS](https://openreview.net/pdf?id=rJXMpikCZ)
-### [metapath2vec: Scalable Representation Learning for Heterogeneous Networks] (https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
+### [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
 
 ## Text Generatation
 ### [Challenges in Data-to-Document Generation](https://aclweb.org/anthology/D17-1239)
