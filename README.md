@@ -11,6 +11,15 @@ Six classes:Background, Motivation, Uses, Extension, Comparison/Contrast, Future
 ### * [GRAPH ATTENTION NETWORKS](https://openreview.net/pdf?id=rJXMpikCZ)
 ### * [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
 
+Data: AMiner Computer Science (CS) dataset , the Database and Infor- mation Systems (DBIS) dataset 
+https://ericdongyx.github.io/metapath2vec/m2v.html
+
+### [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/pdf/1508.00200.pdf)
+
+### [DeepWalk: Online Learning of Social Representations](https://classes.cs.uoregon.edu/17S/cis607bddl/papers/Perozzi.pdf)
+
+### Distributed representations of words and phrases and their compositionality
+### Efficient Estimation of Word Representations in Vector Space. 
 ***
 
 ## Text Generatation
