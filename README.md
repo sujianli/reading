@@ -18,8 +18,8 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 
 ### [DeepWalk: Online Learning of Social Representations](https://classes.cs.uoregon.edu/17S/cis607bddl/papers/Perozzi.pdf)
 
-### Distributed representations of words and phrases and their compositionality
-### Efficient Estimation of Word Representations in Vector Space. 
+### [Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+### [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 ***
 
 ## Text Generatation
