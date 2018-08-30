@@ -33,7 +33,11 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 
 ***
 
-## Question Generation
+## Question Generation and Analysis
 ### * [automatic question generation using relative pronouns and adverbs](http://aclweb.org/anthology/P18-3022)
-
+### * [What Makes Reading Comprehension Questions easier] 
+### * [Systematic Error Analysis of the Stanford Question Answering Dataset](http://www.aclweb.org/anthology/W18-2602)
+### * [Comparative Analysis of Neural QA models on SQuAD](http://www.aclweb.org/anthology/W18-2610)
+### * [Difficulty Controllable Question Generation for Reading Comprehension](https://arxiv.org/abs/1807.03586)
 ***
+
