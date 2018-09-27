@@ -26,6 +26,7 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 ### * [Challenges in Data-to-Document Generation](https://aclweb.org/anthology/D17-1239)
 ### * [Story Generation from Sequence of Independent Short Descriptions](https://arxiv.org/pdf/1707.05501)
 ### * [LearningNeuralTemplatesforTextGeneration](https://arxiv.org/pdf/1808.10122.pdf)
+### * [http://nlp.seas.harvard.edu/papers/](http://nlp.seas.harvard.edu/papers/)
 
 ***
 
