@@ -30,7 +30,7 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 ### * [http://nlp.seas.harvard.edu/papers/](http://nlp.seas.harvard.edu/papers/)
 
 ### [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/abs/1805.08191)
-### [Hierarchical photo-scene encoder for album storytelling] (https://arxiv.org/pdf/1805.05622.pdf)
+### [Hierarchical photo-scene encoder for album storytelling](https://arxiv.org/pdf/1805.05622.pdf)
 ***
 
 ## Reading Comprehension
