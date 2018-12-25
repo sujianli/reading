@@ -1,5 +1,6 @@
 # Recent reading list
 
+
 ## Citation Related
 ### * [Measuring the Evolution of a Scientific Field through Citation Frames](https://www.transacl.org/ojs/index.php/tacl/article/view/1266)
 
@@ -28,6 +29,8 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 ### * [LearningNeuralTemplatesforTextGeneration](https://arxiv.org/pdf/1808.10122.pdf)
 ### * [http://nlp.seas.harvard.edu/papers/](http://nlp.seas.harvard.edu/papers/)
 
+### [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/abs/1805.08191)
+### [Hierarchical photo-scene encoder for album storytelling] (https://arxiv.org/pdf/1805.05622.pdf)
 ***
 
 ## Reading Comprehension
