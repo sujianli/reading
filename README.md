@@ -25,6 +25,12 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 
 ## Text Generatation
 ### * [Challenges in Data-to-Document Generation](https://aclweb.org/anthology/D17-1239)
+### * Operations Guided Neural Networks for High Fidelity Data-to-Text Generation
+### * Data-to-Text Generation with Content Selection and Planning
+### * Survey of the state of the art in natural language generation: core tasks, applications and evaluation (2018)
+### * Neural symbolic machines: learning semantic parsers on freebase with weak supervision (2017)
+### * what to talk about and how? selective generation using lstms with coarse-to-fine alignment (2016)
+### * Choosing words in computer-generated weather forecasts (2005)
 ### * [Story Generation from Sequence of Independent Short Descriptions](https://arxiv.org/pdf/1707.05501)
 ### * [LearningNeuralTemplatesforTextGeneration](https://arxiv.org/pdf/1808.10122.pdf)
 ### * [http://nlp.seas.harvard.edu/papers/](http://nlp.seas.harvard.edu/papers/)
