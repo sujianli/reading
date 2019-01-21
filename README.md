@@ -37,6 +37,11 @@ https://ericdongyx.github.io/metapath2vec/m2v.html
 
 ### [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/abs/1805.08191)
 ### [Hierarchical photo-scene encoder for album storytelling](https://arxiv.org/pdf/1805.05622.pdf)
+
+
+### [Generative Adversarial Network for Abstrative Summarization]
+### [A Deep Reinforcement Learning for Summarization]
+
 ***
 
 ## Reading Comprehension
